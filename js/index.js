@@ -1,4 +1,4 @@
- /// <reference types="../@types/jquery" />
+ /// <reference types="../@types/jquery>
 
 $("div.list").on("click",function(){
  $("div.screen").animate({width:'230px'},500);
